@@ -1,7 +1,8 @@
 # Google Translator Using Python
 
 Language Translator is a user-friendly Python application that leverages the power of Google Translate to help you effortlessly translate text from one language to another. Whether you need to translate a message, a document, or simply explore different languages, this tool makes the process easy and intuitive.
-![Language Translator Screenshot](![Translate_ScreenShort.png](Translate_ScreenShort.png))
+
+![Language Translator Screenshot](Translate_ScreenShort.png)
 
 ## Features
 
